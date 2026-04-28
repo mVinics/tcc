@@ -17,12 +17,12 @@ O que já tem?
 - montagem de lista de adjacencia;
 - montagem de matriz de adjacencia;
 - calculo do grau dos vertices
-
+- conexidade;
+- detectação de ciclos;
 
 O que falta?
 
-- conexidade;
-- detectação de ciclos;
+- identificação de outros tipos de grafos;
 - identificar caminhos entre dois vertices;
 - identificação dos tipos de grafos (euleriano, hamiltoneano);
 - desenvolvimento inteiro do aplicativo;
